@@ -1,8 +1,6 @@
 # Windows-Suff-cause-i-cant-forget-or-just-tips-from-whhat-i-think
 just stuff like app i think i need and dont need
 
-UnuGetUI:
-i just dont need and for me it sometimes did not work. so for my pc setup i dont need it.
 
 Discord:
 i mean its discord so yea.
